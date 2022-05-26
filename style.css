@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&family=Macondo&family=Mukta:wght@200&display=swap');
+.image{
+    background-image: url("./image/Rishad.jpg");
+    background-size: cover;
+    height: auto;
+}
+
+.name{
+    padding-top: 80px;
+    font-family: 'Macondo', cursive;
+}
+p,ul,small{
+    font-family: 'EB Garamond', serif;
+}
+.profession{
+    font-family: 'Macondo', cursive;
+}
+h6{
+    font-family: 'Mukta', sans-serif;
+}
+.upper{
+    opacity: 2;
+    margin-bottom: 5px;
+}
+.lower{
+    opacity: 2;
+    margin-top: 5px;
+}
