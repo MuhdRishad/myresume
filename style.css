@@ -1,12 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=EB+Garamond&family=Macondo&family=Mukta:wght@200&display=swap');
-.image{
+/* .image{
     background-image: url("./image/Rishad.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
     height: auto;
+} */
+img{
+    height: auto;
 }
-
 .name{
     padding-top: 80px;
     font-family: 'Macondo', cursive;
