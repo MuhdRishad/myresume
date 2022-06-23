@@ -5,9 +5,10 @@
     background-repeat: no-repeat;
     background-position: center;
     height: auto;
+    width: 10vw;
 } */
-img{
-    height: auto;
+.list-unstyling{
+    list-style: none;
 }
 .name{
     padding-top: 80px;
