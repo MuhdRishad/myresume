@@ -31,3 +31,9 @@ h6{
     opacity: 2;
     margin-top: 5px;
 }
+.project-hr{
+    opacity: 1;
+    margin-top: 5px;
+    margin-bottom: 2px;
+    color: rgb(24, 23, 37);
+}
